@@ -240,7 +240,7 @@ footer {
     top: 50%; /* This moves the buttons up in the slideshow container */
     width: auto; /* The width of the buttons is automatically adjusted based on the content */
     padding: 2vw; /* Adds padding equal to 2% of the viewport width */
-    color: rgba(169, 169, 169, 0); 
+    color: darkgray; 
     font-weight: bold;
     font-size: 1.5vw;
     border-radius: 0 3px 3px 0; /* Adds a slightly rounded border on the top and bottom right corners */
@@ -253,6 +253,7 @@ footer {
     right: 0; /* This moves the next button to the right side of the slideshow container */
     border-radius: 3px 0 0 3px; /* This changes the border radius on the next button to the top and bottom left of the button */
 }
+
 
 /* Hover effect on slide show buttons */
 .Previous:hover, .Next:hover {
